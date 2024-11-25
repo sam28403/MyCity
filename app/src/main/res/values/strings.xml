@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">My City</string>
+    <string name="page_2">Recommendation</string>
+    <string name="page_3">Details</string>
+
+    <string name="cat_1">Tourist Attractions</string>
+    <string name="cat_2">Restaurants and Food</string>
+    <string name="cat_3">Shopping</string>
+    <string name="cat_4">Museums</string>
+    <string name="cat_5">Public Transportation</string>
+
+    <string name="attraction_1">Waitan (The Bund)</string>
+    <string name="attraction_2">Lujiazui</string>
+    <string name="attraction_3">Wukang Building</string>
+    <string name="attraction_4">Xujiahui</string>
+    <string name="attraction_5">Jing\'an Temple</string>
+
+    <string name="attraction_1_description">The Bund (Waitan) is a waterfront area in central Shanghai, famous for its historic buildings showcasing a mix of architectural styles from the colonial era.</string>
+    <string name="attraction_2_description">Lujiazui is Shanghai’s financial district, known for its futuristic skyline, including iconic landmarks such as the Oriental Pearl Tower and the Shanghai Tower.</string>
+    <string name="attraction_3_description">The Wukang Building is a historic French-style apartment building in Shanghai, renowned for its unique wedge-shaped structure and rich cultural heritage.</string>
+    <string name="attraction_4_description">Xujiahui is a vibrant commercial and cultural area in Shanghai, featuring shopping malls, historical landmarks, and the renowned Xujiahui Catholic Cathedral.</string>
+    <string name="attraction_5_description">Jing’an Temple is an ancient Buddhist temple in Shanghai, blending traditional architecture with modern surroundings and serving as a spiritual and cultural hub.</string>
+
+    <string name="food_1">Peace Hotel</string>
+    <string name="food_2">Starbucks</string>
+    <string name="food_3">Found 158</string>
+
+    <string name="food_1_description">The Peace Hotel is an iconic landmark in Shanghai, offering fine dining experiences alongside its historic charm and stunning views of The Bund.</string>
+    <string name="food_2_description">Starbucks in Shanghai includes notable flagship stores, such as the Reserve Roastery, where visitors can enjoy unique coffee experiences in a luxurious setting.</string>
+    <string name="food_3_description">Found 158 is a trendy dining and nightlife hub in Shanghai, featuring a variety of restaurants, bars, and cafes in a vibrant underground plaza.</string>
+
+    <string name="shopping_1">East Nanjing Road</string>
+    <string name="shopping_2">Shanghai Akihabara</string>
+    <string name="shopping_3">Global Harbor</string>
+    <string name="shopping_4">Longemont</string>
+    <string name="shopping_5">Dapuqiao</string>
+
+    <string name="shopping_1_description">East Nanjing Road is Shanghai’s premier shopping street, offering a mix of international brands, local shops, and a lively pedestrian-friendly atmosphere.</string>
+    <string name="shopping_2_description">Shanghai Akihabara is a hub for anime and gaming enthusiasts, inspired by Tokyo’s famous Akihabara district.</string>
+    <string name="shopping_3_description">Global Harbor is a large shopping mall with European-style architecture, featuring a wide range of stores, dining options, and entertainment facilities.</string>
+    <string name="shopping_4_description">Longemont is a high-end shopping and entertainment complex in Shanghai, known for luxury brands, gourmet dining, and a cinema.</string>
+    <string name="shopping_5_description">Dapuqiao is a trendy shopping area in Shanghai, popular for its boutique stores, cafes, and the artsy Tianzifang neighborhood nearby.</string>
+
+    <string name="museum_1">Shanghai Museum</string>
+    <string name="museum_2">The Site of 1st CCP National Congress</string>
+    <string name="museum_3">Sihang Warehouse</string>
+
+    <string name="museum_1_description">The Shanghai Museum is a renowned cultural institution showcasing ancient Chinese art and artifacts, including bronze, ceramics, calligraphy, and paintings.</string>
+    <string name="museum_2_description">The Site of the 1st CCP National Congress is a historic museum in Shanghai, preserving the location where the Communist Party of China was founded in 1921.</string>
+    <string name="museum_3_description">The Sihang Warehouse is a historical site and museum commemorating the Battle of Shanghai during the Second Sino-Japanese War, showcasing artifacts and exhibits from this pivotal conflict.</string>
+
+    <string name="transportation_1">Ground Transportation</string>
+    <string name="transportation_2">Metro</string>
+    <string name="transportation_3">Train</string>
+    <string name="transportation_4">Airport</string>
+    <string name="transportation_5">Intercity Train</string>
+    <string name="transportation_6">Ferry</string>
+
+    <string name="transportation_1_description">Ground Transportation in Shanghai includes buses, taxis, and ride-sharing services, providing convenient options for getting around the city.</string>
+    <string name="transportation_2_description">The Shanghai Metro is one of the largest and most efficient subway systems in the world, offering extensive coverage of the city and its suburbs.</string>
+    <string name="transportation_3_description">Train services in Shanghai connect the city to other parts of China through a network of modern and high-speed rail systems.</string>
+    <string name="transportation_4_description">Shanghai is served by two major airports, Pudong and Hongqiao, providing domestic and international flights with modern facilities.</string>
+    <string name="transportation_5_description">Intercity Trains from Shanghai, such as CRH trains to Jinshan District, offer fast and comfortable travel to nearby satellite cities.</string>
+    <string name="transportation_6_description">The Shanghai Ferry is a historic and scenic transportation option, connecting both sides of the Huangpu River. It offers passengers a convenient and affordable way to enjoy views of the city’s iconic skyline.</string>
+
+</resources>
