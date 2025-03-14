@@ -6,14 +6,14 @@ plugins {
 
 android {
     namespace = "cc.samlab.mycity"
-    compileSdkPreview = "Baklava"
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "cc.samlab.mycity"
         minSdk = 28
-        targetSdkPreview = "Baklava"
-        versionCode = 5
-        versionName = "1.0.4"
+        targetSdk = 36
+        versionCode = 6
+        versionName = "1.1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
